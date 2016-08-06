@@ -10,6 +10,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+opengraph:
+  type: 'https://www.facebook.com/Foster-Youth-for-Hillary-1726514510935866/'
 layout_spectrum: 0.37448287359438837
 author:
   name: Sixto Cancel
