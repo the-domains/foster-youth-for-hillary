@@ -1,4 +1,3 @@
-layout_spectrum: 0.37448287359438837
 typography_spectrum: 0.9160802329424769
 color:
   brandStrength: 0.965197901474312
@@ -11,5 +10,10 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.37448287359438837
+author:
+  name: Sixto Cancel
+  email: sixto@fosteryouthforhillary.com
+  url: www.fosteryouthforhillary.com
 name: Foster Youth For Hillary
 title: Foster Youth for Hillary
