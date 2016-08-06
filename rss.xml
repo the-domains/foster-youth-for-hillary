@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Foster Youth for Hillary]]></title>
+        <description><![CDATA[Foster Youth for Hillary]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Aug 2016 18:29:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Foster Youth For Hillary]]></title>
+            <description><![CDATA[<article><h1>Foster Youth For Hillary</h1><p>Foster Youths are standing by with Hillary Clinton!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b5e5db65fb79e1e4700c4a9e92f7a705/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXHOqYW2cSYE%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XHOqYW2cSYE&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">d41f738d-8108-4909-9786-f519ee4883f5</guid>
+            <pubDate>Sat, 06 Aug 2016 18:29:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
